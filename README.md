@@ -1,8 +1,13 @@
 # Salary Prediction Portfolio
 ### Salary Predictions on job postings
 
- ![](images/Image1.png)
- ![](images/Heat ma
+![](Images/Image%201.jpg)
+ ![](Images/Feature%20importance.PNG)
+ ![](Images/Heat%20map.PNG)
+ ![](Images/Predicted%20vs%20observed.PNG)
+ ![](Images/Salary%20distribution.PNG)
+ ![](Images/train%20salary.PNG)
+ ![](Images/train%20test%20dataset.PNG)
       
 
 ### Define problem
