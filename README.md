@@ -1,6 +1,10 @@
 # Salary Prediction Portfolio
 ### Salary Predictions on job postings
 
+ ![](images/Image1.png)
+ ![](images/Heat ma
+      
+
 ### Define problem
 Organization's fair and well balanced pay structure is one of the top priority for any prospective employee. Good organizations often offer competitive salary and retain well trained employees for years which is more productive than paying less and  keeping  up with high turn over rates of employees who would leave the company for the reason of salary. Salary prediction is an important tool not only for HR department to offer fair salary to potential hires but also to job seekers in making more informed decisions.
 
