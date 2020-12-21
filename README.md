@@ -3,9 +3,9 @@
 
 <img src = "Images/Image%201.jpg" >
 
-<img src = "Images/Heat%20map.PNG" >
+
 <img src = "Images/Predicted%20vs%20observed.PNG" >
-<img src = "Images/Salary%20distribution.PNG" >
+
 
 
 
@@ -38,15 +38,37 @@ Testing and training datasets were loaded into pandas dataframes. Both the datas
 <img src = "Images/train%20salary.PNG" >
 
 
+### Clean Data 
+
+These datasets were clean. Dataset 
+ * Did not have duplicate records
+ * Did not have missing data
+ * There were few invalid data i.e. zero values for salary. 
+ 
+ ###  Exploratory Data Analysis
+ 
+ Distribution of target variable was examined and mostly salary values lied between 70k-150k
+and Salary histogram plot had right skewedness.
+ 
+
+<img src = "Images/Salary%20distribution.PNG" >
 
 
 
 
+Interquartile method was used to look for potential outliers. Upper Bound and lower bound salaries were found to be 220.5 and 8.5 respectively. On further exmination those high earning job types were from Oil and Finance industries and had many more years of experience. Hence none of the data was removed or modified.
 
+#### Correlation Matrix
 
+Categorical variable were encoded to numberical values and heat map studied.
 
+<img src = "Images/Heat%20map.PNG" >
 
+*  Positive correlation between years of experience and salary.
+*  Negative correlation between miles from metropolis, job type, degree,major and salary.
+*  Looking at the measures major and degree were most correlated. Other features did not show correlation.
 
+### Model Evaluation AND Best Model Selection
 
 
 
