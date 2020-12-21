@@ -4,12 +4,6 @@
 <img src = "Images/Image%201.jpg" >
 
 
-<img src = "Images/Predicted%20vs%20observed.PNG" >
-
-
-
-
-
 
 
 
@@ -69,10 +63,11 @@ Categorical variable were encoded to numberical values and heat map studied.
 *  Other features did not show significant correlation.
 
 ### Model Evaluation AND Best Model Selection
-
+<img src = "Images/model%20evaluation.PNG" >
 In the baseline model prediction, the average salary was calculated based on the data provided without fitting or feature engineering. Next,Supervised Machine Learning algorithms were used to enhance the prediction results of our fairly large dataset. Linear Regression, decision tree models are better in time and simplicity whereas Random forest and gradient boost models are better with accuracy. Models were evaluated using Mean Squared Error (MSE) and lower the MSE, the better the prediction. Gradient Boosting Regressor was selected as the best model.
 
-<img src = "Images/model%20evaluation.PNG" >
+
+<img src = "Images/Predicted%20vs%20observed.PNG" >
 
 
 
