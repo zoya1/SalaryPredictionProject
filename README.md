@@ -18,3 +18,16 @@ Following were the datasets provided.
 Testing and training datasets were loaded into pandas dataframes. Both the datasets had identical formats.
 
 T
+
+
+
+
+
+
+
+
+
+
+## References:
+1. https://ia.acs.org.au/article/2018/devops-and-contractors--the-trends-shaping-it-salaries.html
+2.
