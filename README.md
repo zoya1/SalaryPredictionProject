@@ -73,7 +73,7 @@ In the baseline model prediction, the average salary was calculated based on the
 
 ### Model Development AND Deploy the Solution
 
-
+Best model was used to predict salary on test data. Feature importance was derived and represented below. 
 
 
 
@@ -87,4 +87,4 @@ In the baseline model prediction, the average salary was calculated based on the
 
 ## References:
 1. https://ia.acs.org.au/article/2018/devops-and-contractors--the-trends-shaping-it-salaries.html
-2.
+
