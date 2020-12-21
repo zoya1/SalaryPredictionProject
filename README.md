@@ -2,12 +2,11 @@
 ### Salary Predictions on job postings
 
 <img src = "Images/Image%201.jpg" >
-<img src = "Images/Feature%20importance.PNG" >
+
 <img src = "Images/Heat%20map.PNG" >
 <img src = "Images/Predicted%20vs%20observed.PNG" >
 <img src = "Images/Salary%20distribution.PNG" >
-<img src = "Images/train%20test%20dataset.PNG" >
-<img src = "Images/train%20salary.PNG" >
+
 
 
 
@@ -33,10 +32,32 @@ Following were the datasets provided.
 Testing and training datasets were loaded into pandas dataframes. Both the datasets had identical formats.
 
 
+<img src = "Images/train%20test%20dataset.PNG" >
+
+
+<img src = "Images/train%20salary.PNG" >
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src = "Images/Feature%20importance.PNG" >
 
 
 
