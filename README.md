@@ -1,13 +1,19 @@
 # Salary Prediction Portfolio
 ### Salary Predictions on job postings
 
-![](Images/Image%201.jpg)
- ![](Images/Feature%20importance.PNG)
- ![](Images/Heat%20map.PNG)
- ![](Images/Predicted%20vs%20observed.PNG)
- ![](Images/Salary%20distribution.PNG)
- ![](Images/train%20salary.PNG)
- ![](Images/train%20test%20dataset.PNG)
+<img src = "Images/Image%201.jpg" >
+<img src = "Images/Feature%20importance.PNG" >
+<img src = "Images/Heat%20map.PNG" >
+<img src = "Images/Predicted%20vs%20observed.PNG" >
+<img src = "Images/Salary%20distribution.PNG" >
+<img src = "Images/train%20test%20dataset.PNG" >
+<img src = "Images/train%20salary.PNG" >
+
+
+
+
+
+
       
 
 ### Define problem
@@ -25,8 +31,6 @@ Following were the datasets provided.
 * test_features.csv: This is similar to train_features.csv, each row represented metadata for an individual job posting.
 
 Testing and training datasets were loaded into pandas dataframes. Both the datasets had identical formats.
-
-T
 
 
 
